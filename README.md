@@ -14,3 +14,18 @@ These are the jupyter notebooks used for intro tutorials to teach Julia
 [Algorithms for Decision Making](https://algorithmsbook.com)- Mykel Kochenderfer, Tim Wheeler, Kyle Wray, MIT Press 2022
 
 [Decision Making Under Uncertainty](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
+
+## To-do
+
+[x] Getting started
+[ ] Strings
+[ ] Data Structures
+[ ] Loops
+[ ] Conditionals
+[ ] Functions
+[ ] Packages
+[ ] Plotting
+[ ] Multiple Dispatch
+[ ] Julia is fast
+[ ] Basic linear algebra
+[ ] Factorization and other functions
