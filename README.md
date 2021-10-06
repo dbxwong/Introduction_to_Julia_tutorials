@@ -8,6 +8,8 @@ These are the jupyter notebooks used for intro tutorials to teach Julia
 
 [A Gentle Introduction to Julia](https://www.youtube.com/watch?v=4igzy3bGVkQ)
 
+[Julia Documentation](https://docs.julialang.org/en/v1/)
+
 ## More material
 [Algorithms for Decision Making](https://algorithmsbook.com)- Mykel Kochenderfer, Tim Wheeler, Kyle Wray, MIT Press 2022
 
