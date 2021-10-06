@@ -17,15 +17,15 @@ These are the jupyter notebooks used for intro tutorials to teach Julia
 
 ## To-do
 
-[x] Getting started
-[ ] Strings
-[ ] Data Structures
-[ ] Loops
-[ ] Conditionals
-[ ] Functions
-[ ] Packages
-[ ] Plotting
-[ ] Multiple Dispatch
-[ ] Julia is fast
-[ ] Basic linear algebra
-[ ] Factorization and other functions
+-[x] Getting started
+-[ ] Strings
+-[ ] Data Structures
+-[ ] Loops
+-[ ] Conditionals
+-[ ] Functions
+-[ ] Packages
+-[ ] Plotting
+-[ ] Multiple Dispatch
+-[ ] Julia is fast
+-[ ] Basic linear algebra
+-[ ] Factorization and other functions
