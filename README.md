@@ -8,4 +8,6 @@ These are the jupyter notebooks used for intro tutorials to teach Julia
 
 [A Gentle Introduction to Julia](https://www.youtube.com/watch?v=4igzy3bGVkQ)
 
-[Algorithms for Decision Making](https://algorithmsbook.com) , Mykel Kochenderfer, Tim Wheeler, Kyle Wray, MIT Press 2022
+[Algorithms for Decision Making](https://algorithmsbook.com)- Mykel Kochenderfer, Tim Wheeler, Kyle Wray, MIT Press 2022
+
+[Decision Making Under Uncertainty](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
